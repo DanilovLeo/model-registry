@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+tortoise-orm[asyncpg]==0.21.6
+aerich==0.7.2
+pydantic==2.9.2
+pydantic-settings==2.6.0
+python-dotenv==1.0.1
+asyncpg==0.29.0
+python-multipart==0.0.12
