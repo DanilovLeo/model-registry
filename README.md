@@ -25,8 +25,7 @@ model-registry/
 │   ├── routers/             # API endpoints
 │   └── services/
 │       └── import_scanner.py  # Legacy import
-├── models/                  # Legacy model directory (import demo)
-├── diagrams/                # PlantUML architecture diagrams
+├── models/                  # Legacy model directory (import demo)  
 ├── .env.example
 ├── docker-compose.yml
 ├── Dockerfile
